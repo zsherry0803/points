@@ -1,0 +1,4 @@
+Also some logic assumptions:
+1: we will only check if input is valid when we want to get current points or use points.
+2: if there are multiple entries in the same timestamp, we can remove any one first, the order here does not matter.
+3. i did not add validation when using points, i can add more if have more time or more specified documents.
